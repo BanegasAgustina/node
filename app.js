@@ -1,4 +1,4 @@
-const { getFreeMemory, createLargeArray } = require('./process');
+const { getFreeMemory, createLargeArray } = require('./eje1');
 
 console.clear();
 
